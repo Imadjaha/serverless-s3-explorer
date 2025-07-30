@@ -7,7 +7,7 @@ A modern, single‑page web application that lets you browse, preview and downlo
 ## Demo
 
 ![Screenshot of the S3 Explorer UI showing bucket listing and image preview](docs/screenshot1.png)
-![Screenshot of the S3 Explorer UI showing bucket listing and image preview](docs/screenshot2.png)
+![Screenshot of the S3 Explorer UI showing a file preview](docs/screenshot2.png)
 
 > Clone the repo, install the few required packages and run `python app.py` – the app starts on [http://localhost:8050](http://localhost:8050).
 
